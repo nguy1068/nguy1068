@@ -30,7 +30,7 @@ A Passionate Developer writing `Mobile Apps` since 2022 🔥. I've working with 
     <summary>Github Stats</summary>
     <p align="center">
         <img 
-            src="https://github-readme-stats.vercel.app/api?username=nguy1068&count_private=true&show_icons=true&include_all_commits=true" 
+            src="https://github-readme-stats.vercel.app/api?username=nguy1068&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" 
             alt="Mike Nguyen | Stats" 
         />
     </p>
