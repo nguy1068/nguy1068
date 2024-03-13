@@ -3,18 +3,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZrenFoOXBxM3ZmZHE3cnoybXFlNmxkbXMxZHEzdDE0Z3lpZndoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dHxXXbWkOXEfQfQFHm/giphy.gif"  />
-</div>
-
-###
-
-<p align="center">Check out some of my work ↓</p>
-
-###
-
 <details>
-<summary>Skill Set 💡</summary>
+<summary algin="center">Skill Set 💡</summary>
 <div align="center">
     
 | Language | `Java` `Kotlin` `Python` `Dart` `JavaScript` |
@@ -25,3 +15,15 @@
 </div>
 
 </details>
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZrenFoOXBxM3ZmZHE3cnoybXFlNmxkbXMxZHEzdDE0Z3lpZndoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dHxXXbWkOXEfQfQFHm/giphy.gif"  />
+</div>
+
+###
+
+<p align="center">Check out some of my work ↓</p>
+
+###
+
+
