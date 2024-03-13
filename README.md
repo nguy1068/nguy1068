@@ -3,8 +3,8 @@
 
 ###
 
-<details algin="center">
-<summary algin="center">Skill Set 💡</summary>
+<details>
+<summary align="center">Skill Set 💡</summary>
 <div align="center">
     
 | Language | `Java` `Kotlin` `Python` `Dart` `JavaScript` |
