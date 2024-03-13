@@ -1,5 +1,5 @@
 <!-- <img src="assets/gif/developer.gif" width="100%"/> -->
-<p align="center">Hey there, welcome to my Github! 👋🏼<br><br>~~~<br><br>I'm a design developer who loves building user interfaces and the tools that enable them.</p>
+<p align="center">Hey there, welcome to my Github! 👋🏼<br><br>~~~<br><br>I'm a Designer and Front-end developer who loves building user interfaces and the tools that enable them.</p>
 
 ###
 
@@ -7,10 +7,11 @@
 <summary align="center">Skill Set 💡</summary>
 <div align="center">
     
-| Language | `Java` `Kotlin` `Python` `Dart` `JavaScript` |
+| Language | `Java` `C#` `Python` `JavaScript` |
 | :- | :- |
-| Mobile | `Android` `Flutter` `React Native` |
+| Front-end |  `Flutter`, `React Native`, `React`, `NextJS`, `Lit` |
 | Backend | `Spring` `NodeJs` `FastAPI` |
+| DB |  `Mongo-db`, `MySQL`, `GraphQL`|
 
 </div>
 
