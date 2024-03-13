@@ -1,25 +1,17 @@
 <!-- <img src="assets/gif/developer.gif" width="100%"/> -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
-<div align="start">
+<p align="center">Hey there, welcome to my Github! 👋🏼<br><br>~~~<br><br>I'm a design developer who loves building user interfaces and the tools that enable them.</p>
 
-<style>
-    body {
-        font-family: 'Questrial', sans-serif; /* Use the selected Google Font */
-    }
-</style>
- 
-## Hi There👋, I'm `Mike Nguyen`
-A Passionate Developer writing `Mobile Apps` since 2022 🔥. I've working with **Android**, **Flutter**, **Python** and many other technologies.
-
-</div>
-
-######
+###
 
 <div align="center">
-    <img src="assets/gif/developer.gif" width="500px"/>
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZrenFoOXBxM3ZmZHE3cnoybXFlNmxkbXMxZHEzdDE0Z3lpZndoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dHxXXbWkOXEfQfQFHm/giphy.gif"  />
 </div>
+
+###
+
+<p align="center">Check out some of my work ↓</p>
+
+###
 
 <details>
 <summary>Skill Set 💡</summary>
@@ -33,24 +25,3 @@ A Passionate Developer writing `Mobile Apps` since 2022 🔥. I've working with 
 </div>
 
 </details>
-
-<details>
-    <summary>Github Stats</summary>
-    <p align="center">
-        <img 
-            src="https://github-readme-stats.vercel.app/api?username=nguy1068&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" 
-            alt="Mike Nguyen | Stats" 
-        />
-    </p>
-
-</details>
-
-## What I'm doing now ? 👀
-
-- ⭐ Some Awesome Projects on `Google Play Store`
-- 🎨 `Open Source` Contributor
-- 💌 Waiting for your next **Incredible Projects**
-
-######
-
-
