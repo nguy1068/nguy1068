@@ -3,7 +3,7 @@
 
 ###
 
-<details>
+<details algin="center">
 <summary algin="center">Skill Set 💡</summary>
 <div align="center">
     
