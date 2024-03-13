@@ -45,22 +45,4 @@ A Passionate Developer writing `Mobile Apps` since 2022 🔥. I've working with 
 
 ######
 
-## Reach me via 👇
 
-<div style="display: flex; justify-content: flex-start;">
-
-  <!-- GMAIL -->
-  <a href="mailto:datnguyenkafka@gmail.com" title="Send Email" style="padding-right: 10px;">
-    <img src="assets/logo/Gmail.png" width="45" alt="Email" />
-  </a>
-
-  <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/dat-nguyen-82bb07228/" title="Redirect to LinkedIn" style="padding-right: 10px;">
-    <img src="assets/logo/LinkedIn.png" width="45" alt="LinkedIn" />
-  </a>
-  
-  <!-- FACEBOOK -->
-  <a href="https://www.facebook.com/dat01282454274/" title="Redirect to Facebook" style="padding-right: 10px;">
-    <img src="assets/logo/Facebook.png" width="45" alt="Facebook" />
-  </a>
-</div>
